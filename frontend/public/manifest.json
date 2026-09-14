@@ -1,0 +1,15 @@
+{
+  "short_name": "FOLI AI",
+  "name": "FOLI AI - Tutor Inteligente para Niños con TDAH",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF8A65",
+  "background_color": "#F5F7FA"
+}
